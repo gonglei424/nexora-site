@@ -1,5 +1,5 @@
 export const metadata = {
-  title: "MAVORA",
+  title: "NEXVORA",
   description: "Smart Essentials for Everyday Life",
 };
 
