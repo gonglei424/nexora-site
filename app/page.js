@@ -35,7 +35,7 @@ export default function Page() {
       <header style={{ textAlign: "center", marginBottom: "50px" }}>
         <img
           src="/logo.png"
-          alt="NEXORA Logo"
+          alt="MAVORA Logo"
           style={{
             maxWidth: "330px",
             width: "100%",
@@ -73,7 +73,7 @@ export default function Page() {
         <h2 style={{ color: "#0f2f57", marginBottom: "15px" }}>Our Story</h2>
 
         <p style={{ color: "#333", lineHeight: "1.8", fontSize: "16px" }}>
-          NEXORA is a modern lifestyle brand focused on practical, stylish, and
+          MAVORA is a modern lifestyle brand focused on practical, stylish, and
           reliable everyday essentials. Our products cover home storage, kitchen
           accessories, outdoor items, car accessories, and smart daily-use
           solutions designed to make life easier, more organized, and more
@@ -153,7 +153,7 @@ export default function Page() {
         }}
       >
         <h2 style={{ color: "#0f2f57", marginBottom: "20px" }}>
-          Why Choose NEXORA
+          Why Choose MAVORA
         </h2>
 
         <ul
