@@ -52,7 +52,7 @@ export default function Page() {
             letterSpacing: "2px",
           }}
         >
-          NEXORA
+          MAVORA
         </h1>
 
         <p style={{ fontSize: "20px", color: "#4b5563", margin: 0 }}>
